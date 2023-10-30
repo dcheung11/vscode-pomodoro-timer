@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # show-ext README
 
 This is the README for your extension "show-ext". After writing up a brief description, we recommend including the following sections.
@@ -69,3 +70,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# vscode-pomodoro-timer
+Pomodoro timer VSCode extension for productivity
+>>>>>>> 6958a2afdcb62f47d25fc9dc205e2c51d9540ac2
